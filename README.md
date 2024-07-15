@@ -6,7 +6,8 @@ En este foro cada persona puede plantear un tema o duda a debate.
 Todos pueden responder a cualquier tema, también puden intercambiar ideas sobre los tema propuestos.
 Útil para debates cortos y muy concretos. De Preguntas y Respuestas.***
 
-<em>**ConfiguraciónJava**</em> 
+<em>**ConfiguraciónJava**</em>
+
 ° Java (versión 17)
 
 ° Maven (versión 4)
