@@ -1,4 +1,4 @@
-<em>**API Rest Foro**</em>
+<em>**API Rest ForoHub - ONE - ALURA - ORACLE**</em>
 
 ***Su función es permitir comunicarse en grupos para hablar sobre lo que les interese o que quieran conocer. 
 Permite averiguar la evolución de las opiniones sobre una duda o interes a lo largo del tiempo.
